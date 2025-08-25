@@ -1,0 +1,130 @@
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #fff7f5;
+    }
+    .navbar-brand {
+      font-weight: 700;
+      font-size: 24px;
+    }
+    .hero-section {
+      padding: 60px 0;
+    }
+    .hero-text h1 {
+      font-size: 48px;
+      font-weight: 700;
+    }
+    .hero-text h1 span.red {
+      color: #e63946;
+    }
+    .hero-text h1 span.yellow {
+      color: #f9c80e;
+    }
+    .search-bar {
+      border: 2px solid #f9c80e;
+      border-radius: 50px;
+      overflow: hidden;
+    }
+    .search-bar input {
+      border: none;
+      padding: 12px 20px;
+      width: 100%;
+      outline: none;
+    }
+    .search-bar button {
+      background: #f9c80e;
+      border: none;
+      padding: 0 20px;
+    }
+    .btn-download {
+      background: #e63946;
+      color: #fff;
+      border-radius: 30px;
+      padding: 12px 25px;
+      font-weight: 600;
+    }
+    .btn-download:hover {
+      background: #d62828;
+    }
+    .food-images img {
+      width: 100px;
+      border-radius: 50%;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    .main-img {
+      max-width: 300px;
+      border-radius: 20px;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fff;
+      padding: 40px 0;
+    }
+    h2 span {
+      color: #ff4d4d;
+    }
+    .offer-section {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .card-offer {
+      border: none;
+      border-radius: 20px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      padding: 20px;
+      background: #fff;
+      transition: 0.3s ease-in-out;
+    }
+    .card-offer:hover {
+      transform: translateY(-10px);
+    }
+    .food-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      overflow: hidden;
+      margin: auto;
+      position: relative;
+    }
+    .food-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .price-badge {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: #fca311;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 50%;
+      font-weight: bold;
+      font-size: 14px;
+    }
+    .rating {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px 0;
+      font-size: 16px;
+    }
+    .rating img {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
+    .order-btn {
+      background: #ff4d4d;
+      color: #fff;
+      font-weight: bold;
+      border-radius: 30px;
+      padding: 10px 20px;
+      border: none;
+      transition: 0.3s;
+    }
+    .order-btn:hover {
+      background: #e63e3e;
+    }
