@@ -59,8 +59,7 @@ Here's a quick preview of how it looks:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/foodhut.git
-   cd foodhut
+   git clone https://github.com/Mian-Mustafa/Food-Delivey-System--html-Css---Bootstrap
    ```
 
 2. **Open `index.html` in any browser**
